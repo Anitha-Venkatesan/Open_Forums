@@ -61,7 +61,7 @@ Steps to install the dependencies
 Note: They already included in npm package.json
 
 ####  Usage
-* `git clone git@github.com:schoess/Open_Forums.git`
+* `git clone git@github.com:Anitha-Venkatesan/Open_Forums.git`
 * `cd Open_Forums`
 * Open Open_Forums folder in Command Line Terminal then run command `npm start`
 * Runs the app in the development mode.<br />
